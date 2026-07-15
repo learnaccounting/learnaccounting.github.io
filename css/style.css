@@ -752,3 +752,6 @@ right:0;
 }
 
 }
+body.menu-open{
+    overflow:hidden;
+}
